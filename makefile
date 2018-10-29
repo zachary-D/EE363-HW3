@@ -1,7 +1,6 @@
 .PHONY p1
 
-all: p1
+all: RThread.class
 
-
-p1: P1/RThread.class
+RThread.class: RThread.java
 	javac RThread.java

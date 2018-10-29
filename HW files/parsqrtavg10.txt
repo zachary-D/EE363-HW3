@@ -1,0 +1,10 @@
+[Thread rt_4]: Average of square roots (8 to 106) = 7.262871371318844
+[Thread rt_1]: Average of square roots (8 to 217) = 10.117885248981992
+[Thread rt_7]: Average of square roots (59 to 299) = 13.100223439827055
+[Thread rt_8]: Average of square roots (69 to 455) = 15.770108652135686
+[Thread rt_0]: Average of square roots (50 to 195) = 10.891532126754853
+[Thread rt_3]: Average of square roots (0 to 413) = 13.53958911263973
+[Thread rt_9]: Average of square roots (1 to 524) = 15.282146868688326
+[Thread rt_5]: Average of square roots (18 to 103) = 7.594987406999564
+[Thread rt_6]: Average of square roots (18 to 134) = 8.470935265805
+[Thread rt_2]: Average of square roots (85 to 369) = 14.797462957661102
